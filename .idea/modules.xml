@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algoritm/Algoritm.iml" filepath="$PROJECT_DIR$/Algoritm/Algoritm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_program/Dynamic_program.iml" filepath="$PROJECT_DIR$/Dynamic_program/Dynamic_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode_question/Leetcode_question.iml" filepath="$PROJECT_DIR$/Leetcode_question/Leetcode_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge array/Merge array.iml" filepath="$PROJECT_DIR$/Merge array/Merge array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/abstraction.iml" filepath="$PROJECT_DIR$/OOPS/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitwise_operator/bitwise_operator.iml" filepath="$PROJECT_DIR$/bitwise_operator/bitwise_operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/college/college.iml" filepath="$PROJECT_DIR$/college/college.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap/implementation.iml" filepath="$PROJECT_DIR$/hashmap/implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_crux.iml" filepath="$PROJECT_DIR$/java_crux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked_list/linked_list.iml" filepath="$PROJECT_DIR$/linked_list/linked_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operator/operator.iml" filepath="$PROJECT_DIR$/operator/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recurion_practice/recurion_practice.iml" filepath="$PROJECT_DIR$/recurion_practice/recurion_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time_and_space_complexity/time_and_space_complexity.iml" filepath="$PROJECT_DIR$/time_and_space_complexity/time_and_space_complexity.iml" />
+    </modules>
+  </component>
+</project>
